@@ -1,11 +1,8 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrunoWollmann/BrunoWollmann/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
 <p align="center">Passionate front-end developer specializing in creating seamless user experiences. Proven team player with excellent communication skills. Also skilled in RPA, I automate processes with precision. Eager to learn and collaborate on innovative projects. Let's build something extraordinary together! 💻✨</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BrunoWollmann&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-BrunoWollmann.vercel.app/api/top-langs/?username=BrunoWollmann&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://camo.githubusercontent.com/e81f944663bc823267b26d99e0707be972e081cfe8b6b9236358445c1cc12000/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d61696e2d72616661656c616c6578616e6472696e6f2e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72616661656c616c6578616e6472696e6f2673686f775f69636f6e733d74727565267468656d653d7261646963616c266c61796f75743d636f6d70616374" />
  </div>
  
  &nbsp;
@@ -47,8 +44,8 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Visual Studio]([https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
-![Azure Devops]([https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
+![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 
 
 &nbsp;
